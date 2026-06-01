@@ -1,0 +1,7 @@
+myenv/
+.ipynb_checkpoints/
+__pycache__/
+
+Books.csv
+Ratings.csv
+Users.csv
