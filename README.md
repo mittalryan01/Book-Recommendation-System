@@ -1,13 +1,12 @@
 # 📚 Book Recommendation System
 
-A content-based book recommendation system that suggests similar books based on user selection. The application is built using Streamlit and leverages precomputed similarity scores for fast and efficient recommendations.
+A content-based book recommendation system that suggests similar books based on user selection. The application is built using Streamlit and uses precomputed similarity scores for fast and efficient recommendations.
 
 ## Features
 
 * Book-to-book recommendations
 * Interactive web interface using Streamlit
 * Fast recommendations using similarity matrices
-* Simple and user-friendly design
 
 ## Tech Stack
 
