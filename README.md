@@ -30,6 +30,12 @@ A content-based book recommendation system that suggests similar books based on 
 └── book_recommender.ipynb
 ```
 
+## Dataset
+
+```
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?select=Users.csv
+```
+
 ## Installation
 
 ### 1. Clone the repository
@@ -60,6 +66,4 @@ streamlit run app.py
 
 The application will open automatically in your browser.
 
-## Author
 
-**Ryan Mittal**
